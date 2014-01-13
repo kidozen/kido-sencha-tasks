@@ -8,19 +8,23 @@ _This sample is not an Sencha Tutorial. It shows how you can add the KidoZen sup
 
 ### Building and running the sample
 
-*Install Sencha and Sencha Cmd 3.1.2
+* Install Sencha and Sencha Cmd 3.1.2
 
-*Install Apache Cordova. In order to install it you can do:
+* Install Apache Cordova. In order to install it you can do:
 
 	npm install -g cordova
 
 Note: npm is the package manager of node.js.
 
-*Clone the solution in a local folder
+* Clone the solution in a local folder
 
 	git clone https://github.com/kidozen/kido-sencha-tasks
 
-*Build and Run the application using following command. This will launch the sample application in your emulator or device
+* Initialize Cordova
+
+	sencha cordova init
+
+* Build and Run the application using following command. This will launch the sample application in your emulator or device
 
 	sencha app build -run native
 
