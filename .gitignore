@@ -1,0 +1,13 @@
+### SenchaTouch ###
+# Build and Release Folders
+archive/
+build/
+.sencha/
+resources/
+touch/
+
+# sass cache folder
+resources/sass/.sass-cache/
+
+cordova/platforms
+cordova/merges
