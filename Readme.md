@@ -32,8 +32,4 @@ Note: npm is the package manager of node.js.
 The Application is located in the `app` folder. It uses the default __sencha cmd__ configuration and folder structure to separate the View (DOM manipulation) from the business rules Model which uses __KidoZen__ to Autenticate the user and manipulate the tasks.
 
 You can find the related `model` javascript files in the `resources/js` folder.
-
-
-
-
-
+ls
