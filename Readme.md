@@ -20,10 +20,6 @@ Note: npm is the package manager of node.js.
 
 	git clone https://github.com/kidozen/kido-sencha-tasks
 
-* Initialize Cordova
-
-	sencha cordova init
-
 * Build and Run the application using following command. This will launch the sample application in your emulator or device
 
 	sencha app build -run native
